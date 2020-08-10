@@ -1,0 +1,18 @@
+footer {
+    margin-top: 10rem;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.6rem;
+    display: flex;
+    position: fixed;
+    justify-content: flex-start;
+    background-color: #1187ed;
+    flex-direction: column;
+}
+
+footer p {
+    color: #FFF !important;
+}
