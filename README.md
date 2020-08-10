@@ -8,7 +8,7 @@
   - _Adicionar knex_ -> `npm install knex sqlite3`
   - _Adicionar express_ -> `npm install express`
   - _server start_ -> `npm start run`
-  - _knex start_ -> `npm run knex:migrate`
+  - _knex start_ -> `npm knex:migrate`
   - _Adicionar portas HTTPS_ -> `npm install cors`
    
 - Instruções teste/ Pasta `web`:
