@@ -1,5 +1,5 @@
 # Teste-TSa
-## NLW#02 Desenvolvendo app Proffy com node js, banco sqlite3, knex e ReactJS
+## Teste Desenvolvendo app para a TSA com node js, banco sqlite3, knex e ReactJS
 
 - Instruções teste/ Pasta `server`:
   - _iniciar back end node_ -> `npm init -y`
